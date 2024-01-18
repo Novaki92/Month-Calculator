@@ -1,0 +1,2 @@
+x -= bump;
+y -= bump;

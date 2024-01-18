@@ -1,0 +1,1 @@
+text = "Month";  // change this for each label
